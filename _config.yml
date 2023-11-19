@@ -1,3 +1,2 @@
-remote_theme: jekyll-multiverse-template
-plugins:
-- jekyll-remote-theme
+remote_theme: "jeffreytse/jekyll-theme-yat"
+$ bundle
