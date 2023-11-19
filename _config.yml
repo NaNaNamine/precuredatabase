@@ -1,1 +1,3 @@
 remote_theme: jekyll-multiverse-template
+plugins:
+- jekyll-remote-them
